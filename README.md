@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  📃 <a href="https://arxiv.org/abs/2510.08189" target="_blank">Paper</a > • 🌐 <a href="https://reasoning-horizon.github.io/" target="_blank">Project Page</a > • 🤗 <a href="https://huggingface.co/datasets/meituan-longcat/R-HORIZON-training-data" target="_blank">Dataset</a >
+  📃 <a href="https://arxiv.org/abs/2510.08189" target="_blank">Paper</a > • 🌐 <a href="https://reasoning-horizon.github.io/" target="_blank">Project Page</a > • 🤗 <a href="https://huggingface.co/datasets/meituan-longcat/R-HORIZON-training-data" target="_blank">Dataset</a > • 🤗 <a href="https://huggingface.co/collections/lulululuyi/r-horizon-models" target="_blank">Models</a >
 </p >
 
 R-HORIZON is a novel method designed to stimulate long-horizon reasoning behaviors in Large Reasoning Models (LRMs) through query composition. We transform isolated problems into complex multi-step reasoning scenarios, revealing that even the most advanced LRMs suffer significant performance degradation when facing interdependent problems that span long reasoning horizons.
@@ -22,7 +22,8 @@ R-HORIZON is a novel method designed to stimulate long-horizon reasoning behavio
 ![](./assets/mainfig.png)
 
 ## 🔥 Releases
-
+**[2026-03]**
+- 🤗 **Models** are available on Hugging Face: [R-HORIZON Models](https://huggingface.co/collections/lulululuyi/r-horizon-models)
 **[2025-10]**
 - 🎉 **R-HORIZON Benchmark** is now available! Test your LRMs on complex multi-horizon reasoning tasks.
 - 🤗 **Training and evaluation datasets** are available on Hugging Face: [R-HORIZON Dataset](https://huggingface.co/datasets/meituan-longcat/R-HORIZON-training-data)
