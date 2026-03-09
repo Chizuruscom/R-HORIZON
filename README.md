@@ -24,6 +24,9 @@ R-HORIZON is a novel method designed to stimulate long-horizon reasoning behavio
 ## 🔥 Releases
 **[2026-03]**
 - 🤗 **Models** are available on Hugging Face: [R-HORIZON Models](https://huggingface.co/collections/lulululuyi/r-horizon-models)
+
+**[2026-01]**
+- 🎉 **R-HORIZON** is Accepted to ICLR 2026!
   
 **[2025-10]**
 - 🎉 **R-HORIZON Benchmark** is now available! Test your LRMs on complex multi-horizon reasoning tasks.
