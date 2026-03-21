@@ -283,4 +283,4 @@ If you find R-HORIZON helpful for your research, please cite our paper:
 Please contact us at <a href="mailto:longcat-team@meituan.com">longcat-team@meituan.com</a> or join our WeChat Group if you have any questions.
 
 #### WeChat Group
-<img src="https://github.com/meituan-longcat/LongCat-Flash-Thinking/blob/main/figures/wechat_qrcode.png" width="200px">
+<img src=assets/Wechat.png width="200px">
