@@ -12,6 +12,9 @@
 
 <br>
 
+<div align="center" style="line-height: 1;">
+  <a href="https://discord.gg/EXsG52D8SW"><img src="https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white"></a>
+</div>
 
 <p align="center">
   📃 <a href="https://arxiv.org/abs/2510.08189" target="_blank">Paper</a > • 🌐 <a href="https://reasoning-horizon.github.io/" target="_blank">Project Page</a > • 🤗 <a href="https://huggingface.co/datasets/meituan-longcat/R-HORIZON-training-data" target="_blank">Dataset</a > • 🤗 <a href="https://huggingface.co/collections/lulululuyi/r-horizon-models" target="_blank">Models</a >
